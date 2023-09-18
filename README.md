@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aldrus D taylor
+- 👋 Hi, I’m Aldrus D Taylor
 - 👀 I’m interested in ...Joining your team!
 - 🌱 I’m currently learning ...Coding with Python and JSON
 - 💞️ I’m looking to collaborate on ...Projects, Daily duties and future task for expansion. 
